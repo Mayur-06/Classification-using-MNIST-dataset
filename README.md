@@ -8,12 +8,13 @@ This repository contains code for training and evaluating a simple logistic regr
 - PyTorch
 - torchvision
 - matplotlib
+- openpyxl
 - pandas (for saving evaluation results to Excel)
 
 You can install the required dependencies using pip:
 
 ```bash
-pip install torch torchvision matplotlib pandas
+pip install torch torchvision matplotlib pandas openpyxl
 ```
 
 ## Getting Started
