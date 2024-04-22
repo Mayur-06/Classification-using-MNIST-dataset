@@ -19,7 +19,7 @@ pip install torch torchvision matplotlib pandas openpyxl
 
 ## Getting Started
 
-1. Clone the repository:
+1. Clone the repository: OR (You can directly copy the cloning link)
 
 ```bash
 git clone https://github.com/your_username/mnist-digit-classification.git
